@@ -1,4 +1,4 @@
-baseURL = "https://OPA-test.netlify.app"
+baseURL = "https://opa-test.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
