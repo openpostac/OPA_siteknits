@@ -41,7 +41,7 @@ description = "Empowering people with a PhD to bring their knowledge and experti
 heading = "Open Post Academics"
 image = "/images/bd_flame.jpg"
 [params.blog]
-heading = "We are an international, interdisciplinary, collaborative, peer-led community that empowers people with a PhD to bring their knowledge and expertise to the world."
+heading = "Empowering people with a PhD to bring their knowledge and expertise to the world"
 [params.call_to_action]
 button_label = "Sign Up"
 button_url = "https://www.mixily.com/listing/12405727515612781"
