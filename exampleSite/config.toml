@@ -41,7 +41,7 @@ description = "This is meta description"
 heading = "Open Post Academics"
 image = "/images/bd_flame.jpg"
 [params.blog]
-heading = "The premier destination for modern art in Northern Sweden. Open from 10 AM to 6 PM every day during the summer months."
+heading = "We are an international, interdisciplinary, collaborative, peer-led community that empowers people with a PhD to bring their knowledge and expertise to the world."
 [params.call_to_action]
 button_label = "Contact Us"
 button_url = "contact"
