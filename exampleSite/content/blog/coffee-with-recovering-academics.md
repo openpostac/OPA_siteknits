@@ -45,4 +45,4 @@ Join us [at ](https://openpostac.org/)[https://openpostac.org/](https://openpost
 
 _Photo:_ [_coffee lover_](https://flic.kr/p/nQk8ia) _—_ [_Camila Tamara Silva Sepúlveda_](https://www.flickr.com/photos/akane2011/)
 
-**_Beth M. Duckles_** _is a writer, researcher and ethnographer based in Portland, Oregon. Find her at_ [_www.beth.duckles.com_](http://www.beth.duckles.com)_._
+**_Beth M. Duckles_** _is a researcher consultant, writer and speaker in Portland, Oregon. She is also the founder of_ [_Open Post Academics_](https://openpostac.org/)_, an online peer support community for folks with a Ph.D. Find her at_ [_www.bethduckles.com_](http://www.bethduckles.com)_._
