@@ -3,7 +3,6 @@ author = []
 categories = []
 date = 2021-01-14T05:00:00Z
 description = ""
-draft = true
 image = "/images/knownbp.jpg"
 tags = ["Women", "Professional Development", "Academia"]
 title = "What I Wish I Had Known Before Leaving Academia"
