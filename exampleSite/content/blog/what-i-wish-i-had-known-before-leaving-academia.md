@@ -16,7 +16,7 @@ What can I say, I like data.
 
 I was completely unprepared for how thoughtful and honest the responses would be. I should have expected it — but wow, these women are SO sharp.
 
-## “No one in professional life outside the academy thinks it’s weird to leave the academy.”
+> **“No one in professional life outside the academy thinks it’s weird to leave the academy.”**
 
 I wrote a white paper to share what these women told me. Here are the major findings:
 
@@ -44,4 +44,6 @@ And a few selected quotes that blew me away:
 
 Interested in reading the full report? Find it[ **here**](https://bethduckles.com/white-papers)**.**
 
-_Beth M. Duckles is a writer, researcher and ethnographer based in Portland, Oregon. Find her at_ [_bethduckles.com_](http://www.beth.duckles.com)_._
+_Photo: Mount Cargill — by Beth M. Duckles_
+
+**_Beth M. Duckles_** _is a researcher consultant, writer and speaker in Portland, Oregon. She is also the founder of_ [_Open Post Academics_](https://openpostac.org/)_, an online peer support community for folks with a Ph.D. Find her at_ [_www.bethduckles.com_](http://www.bethduckles.com)_._
