@@ -36,7 +36,7 @@ weight = 5
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Open Post Academics"
-description = "We are an international, interdisciplinary, collaborative, peer-led community that empowers people with a PhD to bring their knowledge and expertise to the world."
+description = "Empowering people with a PhD to bring their knowledge and expertise to the world"
 [params.banner]
 heading = "Open Post Academics"
 image = "/images/bd_flame.jpg"
