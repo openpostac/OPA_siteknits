@@ -1,7 +1,7 @@
 ---
 title: Join Us
 bg_image: ''
-description: This is meta description
+description: How to Join Us
 
 ---
 ### **Upcoming Events and Coffee Chats**
