@@ -1,9 +1,8 @@
 +++
-author = []
+author = ["Beth M. Duckles"]
 categories = []
 date = 2021-01-14T05:00:00Z
 description = ""
-draft = true
 image = "/images/dearconsid.jpg"
 tags = ["Professor", "Graduate School", "PhD", "Academia", "Post Ac"]
 title = "Dear Considering Leaving Academia"
