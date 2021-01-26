@@ -4,7 +4,7 @@ categories = []
 date = 2021-01-13T05:00:00Z
 description = ""
 image = "/images/coffeeblog.jpg"
-tags = ["Women In Academia", "Workplace", "Academia"]
+tags = ["Toxicity", "Emotions", "Join Us", "Women"]
 title = "Coffee with Recovering Academics"
 
 +++
@@ -43,6 +43,6 @@ Why? Because the world needs us.
 
 Join us [at ](https://openpostac.org/)[https://openpostac.org/](https://openpostac.org/ "https://openpostac.org/")
 
-_Photo:_ [_coffee lover_](https://flic.kr/p/nQk8ia) _—_ [_Camila Tamara Silva Sepúlveda_](https://www.flickr.com/photos/akane2011/)
-
 **_Beth M. Duckles_** _is a researcher consultant, writer and speaker in Portland, Oregon. She is also the founder of_ [_Open Post Academics_](https://openpostac.org/)_, an online peer support community for folks with a Ph.D. Find her at_ [_www.bethduckles.com_](http://www.bethduckles.com)_._
+
+_Photo:_ [_coffee lover_](https://flic.kr/p/nQk8ia) _—_ [_Camila Tamara Silva Sepúlveda_](https://www.flickr.com/photos/akane2011/)
