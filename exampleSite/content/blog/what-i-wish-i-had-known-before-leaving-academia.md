@@ -44,6 +44,6 @@ And a few selected quotes that blew me away:
 
 Interested in reading the full report? Find it[ **here**](https://bethduckles.com/white-papers)**.**
 
-_Photo: Mount Cargill — by Beth M. Duckles_
-
 **_Beth M. Duckles_** _is a researcher consultant, writer and speaker in Portland, Oregon. She is also the founder of_ [_Open Post Academics_](https://openpostac.org/)_, an online peer support community for folks with a Ph.D. Find her at_ [_www.bethduckles.com_](http://www.bethduckles.com)_._
+
+_Photo: Mount Cargill — by Beth M. Duckles_
