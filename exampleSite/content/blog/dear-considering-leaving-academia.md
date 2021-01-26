@@ -4,7 +4,7 @@ categories = []
 date = 2021-01-14T05:00:00Z
 description = ""
 image = "/images/dearconsid.jpg"
-tags = ["Professor", "Graduate School", "PhD", "Academia", "Post Ac"]
+tags = ["Leaving", "Emotions", "Resources "]
 title = "Dear Considering Leaving Academia"
 
 +++
@@ -36,16 +36,14 @@ But a lot of us do find that [**we are content and fulfilled in our work**](http
 
 Some of us find interesting and unexpected ways to use our academic training. Some of us are surprised by more interesting jobs than we ever would have imagined for ourselves. Many of us still do research or teaching in ways we didn’t know were possible while we were still in the academic system. We consider our work meaningful and intellectually stimulating. Really.
 
-Finally, **there are** [**resources**](https://www.postacathenas.com/resources2) **for you.** Other people have gone through this, there are ways to get support and help as you move forward and figure out the next steps.
+Finally, **there are** **resources** **for you.** Other people have gone through this, there are ways to get support and help as you move forward and figure out the next steps.
 
 You’re going to have to do a lot of work, but [**you’re not alone**.](https://medium.com/@bduckles/five-steps-for-leaving-academia-99bf4fbabf12)
-
-It can help to have a few tips and tricks before leaving. I’m doing a webinar called **_“Why it’s So Hard to Leave Academia”_** to share some of what I know from a couple of years of talking to some brilliant women with Ph.D.s via [The Athenas](https://www.postacathenas.com/). If you’re interested in the webinar, please [sign up here.](https://bethduckles.com/registration/why-its-so-hard-to-leave-academia)
 
 With care,
 
 Beth
 
-_Photo by_ [_Wolfgang Lutz_](https://unsplash.com/photos/s1q4iVYznm0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/collections/4453217/athenas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 _Beth M. Duckles is a researcher consultant, writer and speaker in Portland, Oregon. She is also the founder of_ [_Open Post Academics_](https://openpostac.org/)_, an online peer support community for folks with a Ph.D. Find her at_ [_www.bethduckles.com_](http://www.bethduckles.com)_._
+
+_Photo by_ [_Wolfgang Lutz_](https://unsplash.com/photos/s1q4iVYznm0?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) _on_ [_Unsplash_](https://unsplash.com/collections/4453217/athenas?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
