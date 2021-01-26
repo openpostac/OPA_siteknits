@@ -4,7 +4,7 @@ categories = []
 date = 2021-01-14T05:00:00Z
 description = ""
 image = "/images/knownbp.jpg"
-tags = ["Women", "Professional Development", "Academia"]
+tags = ["Research", "Women", "Professional Development"]
 title = "What I Wish I Had Known Before Leaving Academia"
 
 +++
