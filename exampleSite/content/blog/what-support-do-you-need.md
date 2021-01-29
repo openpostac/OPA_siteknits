@@ -45,7 +45,7 @@ This was an insight that came out of the group discussion. Figuring out whether 
 
 Some things participants said they needed: Time. Vulnerability. Support. A realistic to-do list. Patience. Accountability. Brené Brown. People who care. Rest.
 
-And these daemons were getting in the way: Lack of self-belief. Burnout. Exhaustion. Shame. Fear. Procrastination. “Graveyards of half-finished projects” and “ghosts of past projects.”
+And these demons were getting in the way: Lack of self-belief. Burnout. Exhaustion. Shame. Fear. Procrastination. “Graveyards of half-finished projects” and “ghosts of past projects.”
 
 **Getting Unblocked**
 
