@@ -49,7 +49,7 @@ content = "We regularly run events for people with a PhD. Join us for our weekly
 enable = true
 title = "Upcoming Events"
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.footer]
 address = ""
