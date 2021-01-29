@@ -26,7 +26,12 @@ fields:
   description: Meta description
 pages:
 - exampleSite/content/blog/coffee-with-recovering-academics.md
+- exampleSite/content/blog/coffee-with-recovering-academics.md
+- exampleSite/content/blog/dear-considering-leaving-academia.md
 - exampleSite/content/blog/dear-considering-leaving-academia.md
 - exampleSite/content/blog/what-i-wish-i-had-known-before-leaving-academia.md
+- exampleSite/content/blog/what-i-wish-i-had-known-before-leaving-academia.md
 - exampleSite/content/blog/what-is-an-open-project.md
+- exampleSite/content/blog/what-is-an-open-project.md
+- exampleSite/content/blog/what-support-do-you-need.md
 - exampleSite/content/blog/what-support-do-you-need.md
