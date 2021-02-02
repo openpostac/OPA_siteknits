@@ -8,7 +8,7 @@ tags = ["ICYMI", "How-to", "Openness"]
 title = "What Support Do You Need?"
 
 +++
-Welcome back to Jumpstarting Open Projects! This is week 2 of 4 (Find week 1 here). Follow along as OPA leads a group of workshop participants through the full production cycle of a project that will help them share their knowledge with the world. You can do an open project, too!
+Welcome back to Jumpstarting Open Projects! This is week 2 of 4 ([Find week 1 here](/blog/what-is-an-open-project/ "Find week 1 here")). Follow along as OPA leads a group of workshop participants through the full production cycle of a project that will help them share their knowledge with the world. You can do an open project, too!
 
 ### **Week 2: Reach Out to Trusted Advisors**
 
