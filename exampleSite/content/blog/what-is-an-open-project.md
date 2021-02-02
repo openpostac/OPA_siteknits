@@ -16,7 +16,7 @@ That’s what happened to Open Post Academics (OPA) founder Beth Duckles when sh
 
 This is an open project.
 
-# **Jumpstarting Open Projects**
+### **Jumpstarting Open Projects**
 
 You can do one, too! OPA encourages folks to share their knowledge with the world through open projects.
 
@@ -24,11 +24,11 @@ For example, an OPA program that ran in 2020 resulted in this collaborative[ boo
 
 In January 2021, OPA launched Jumpstarting Open Projects, a month-long series of weekly Zoom calls designed to help others learn about, brainstorm, and complete open projects within a supportive community.
 
-# **Want to DIY Your Own Open Project Sprint?**
+### **Want to DIY Your Own Open Project Sprint?**
 
 Follow this 4-part series, which shares how-to info from the Jumpstarting workshops. Then report back in the comments so we can celebrate you 🎉! Since this is an experiment, your experiences and feedback matter.
 
-# **Week 1: Pick a Project**
+### **Week 1: Pick a Project**
 
 An open project isn’t tied to a single genre. It’s anything that helps some of the gatekeeping come down around a particular problem or domain of expertise. Why? So more people can contribute their own skills and knowledge to the conversation.
 
@@ -63,7 +63,7 @@ Here are additional open project ideas to inspire you:
 
 It’s totally fine if your project changes along the way.
 
-# **Get Inspired: Openness Is a Mindset**
+### **Get Inspired: Openness Is a Mindset**
 
 Still not sure about the what, why, and how of your open project? Workshop participants were asked to consider possibilities for their work beyond shareability. Thinking about some of these questions might spark something for you, too:
 
@@ -74,7 +74,7 @@ Still not sure about the what, why, and how of your open project? Workshop parti
 * Who can contribute? Who can I include in the conversation?
 * What would including them make possible?
 
-# **Taking Action**
+### **Taking Action**
 
 To wrap up the first meeting, everyone wrote down next steps to push things forward for week 2.
 
@@ -82,7 +82,7 @@ What about you? Add your open project idea and next steps in the comments!
 
 **Up Next: What Support Do You Need?**
 
-# **Resources**
+### **Resources**
 
 Want to learn more about openness? Here are other forms openness has taken in academic work:
 
