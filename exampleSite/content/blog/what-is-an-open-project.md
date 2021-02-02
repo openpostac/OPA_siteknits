@@ -1,8 +1,8 @@
 +++
 author = []
-categories = []
+categories = ["Openness", "How-to", "ICYMI"]
 date = ""
-description = ""
+description = "Jumpstarting Open Projects (Week 1)"
 draft = true
 image = ""
 tags = []
