@@ -2,10 +2,10 @@
 author = []
 categories = []
 date = ""
-description = ""
+description = "Jumpstarting Open Projects! This is week 2 of 4"
 draft = true
 image = ""
-tags = []
+tags = ["ICYMI", "How-to", "Openness"]
 title = "What Support Do You Need?"
 
 +++
