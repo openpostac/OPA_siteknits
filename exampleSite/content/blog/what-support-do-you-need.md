@@ -54,7 +54,7 @@ To cope with shame, another participant referenced an exercise from Brené Brown
 
 ### **Finding Support**
 
-What do you need? Who will you contact this week to help push your project forward? (It doesn’t have to be someone you already know!)
+What do you need? Who are the people you'll contact this week to help push your project forward? (It doesn’t have to be those you already know!)
 
 And you may or may not need to hear this right now, but it’s okay if your project changes.
 
