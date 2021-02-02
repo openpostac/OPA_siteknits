@@ -3,7 +3,7 @@ author = ["Open Post Academics"]
 categories = ["Openness", "How-to", "ICYMI"]
 date = 2021-02-01T05:00:00Z
 description = "Jumpstarting Open Projects (Week 1)"
-image = ""
+image = "/images/gia-oris-_um5_ng2ssc-unsplash.jpg"
 tags = []
 title = "What Is an Open Project?"
 
@@ -81,6 +81,8 @@ To wrap up the first meeting, everyone wrote down next steps to push things forw
 What about you? Add your open project idea and next steps in the comments!
 
 **Up Next: What Support Do You Need?**
+
+_Hi 👋 I’m Katie Hynes. I was a participant in the January 2021 Jumpstarting Open Projects workshops. This blog series is my open project!_
 
 ### **Resources**
 
