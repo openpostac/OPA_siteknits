@@ -3,7 +3,6 @@ author = []
 categories = ["Openness", "How-to", "ICYMI"]
 date = ""
 description = "Jumpstarting Open Projects (Week 1)"
-draft = true
 image = ""
 tags = []
 title = "What Is an Open Project?"
