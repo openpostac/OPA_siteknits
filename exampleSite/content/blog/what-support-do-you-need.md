@@ -1,7 +1,7 @@
 +++
 author = []
 categories = []
-date = ""
+date = 2021-02-02T05:00:00Z
 description = "Jumpstarting Open Projects! This is week 2 of 4"
 image = ""
 tags = ["ICYMI", "How-to", "Openness"]
