@@ -22,10 +22,10 @@ We collaboratively create tools to empower PhDs to build successful careers outs
 ## What we do
 
 * We run workshops and coffee chats
-* We create online resources and materials.
+* We create online resources and materials
 * We create an online community
 * We support each other to take the next step
-* We encourage each other to create open projects to share their skills and knowledge with the world.
+* We encourage each other to create open projects to share their skills and knowledge with the world
 
 ## Why it Matters
 
@@ -33,4 +33,4 @@ The academy is changing immeasurably. We need new systems and networks to suppor
 
 We acknowledge the toxicity of the academic system and we name its misogynistic, racist, and classist dimensions. We’re here to acknowledge the difficulty of moving away from the toxicity and the challenge of shifting and transforming the academic system. We advocate for healing.
 
-We know how hard it is. We’re not here to tell you what to do, we’re here to help you figure out what skills and knowledge you can share with the world and to help you do it.
+We know how hard it is. We’re not here to tell you what to do. We’re here to help you figure out what skills and knowledge you can share with the world and to help you do it.
