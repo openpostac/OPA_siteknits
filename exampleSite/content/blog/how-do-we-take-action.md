@@ -5,7 +5,7 @@ date = ""
 description = "Jumpstarting Open Projects! This is week 3 of 4"
 draft = true
 image = "/images/kid-circus-7vslk_9ghwa-unsplash.jpg"
-tags = ["Openness", "How-to", "ICYMI"]
+tags = ["How to", "Openness", "ICYMI"]
 title = "How Do We Take Action?"
 
 +++
