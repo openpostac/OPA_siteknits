@@ -11,7 +11,7 @@ title = "How Do We Take Action?"
 +++
 Welcome back to Jumpstarting Open Projects! This is week 3 of 4 (Check out weeks 1 and 2). Follow along as OPA leads a group of workshop participants through the full production cycle of a project that will help them share their knowledge with the world. You can do an open project, too!
 
-**Week 3: Figuring Out What Works for You**
+### **Week 3: Figuring Out What Works for You**
 
 What puts you in a flow state? What blocks the way? How do you feel in these circumstances? Participants reflected on projects they’d tackled in the past. Some patterns emerged around aspects that make it easier and harder to move forward.
 
@@ -41,7 +41,7 @@ Other emotions that surface when folks struggle to take action: Shame. Fear. Anx
 
 During the group discussion, an insight emerged that could make it a little easier to tap some self-compassion. _While we might feel like a sloth, fear could be underneath it all._ Maybe that resonates with you?
 
-**Visions of the Most Supportive Environment**
+### **Visions of the Most Supportive Environment**
 
 Some circumstances are out of your control. But to the extent you can tweak your approach or put something in place to make it more likely you’ll accomplish things… what would that look like?
 
@@ -56,7 +56,7 @@ Folks also talked about the power of knowing what they want and honoring the nee
 
 What’s ideal for you when it comes to tools, support, and taking action?
 
-**Tips and Strategies**
+### **Tips and Strategies**
 
 It’s go time. What do you need to do? What do you need to make that happen?
 
@@ -72,7 +72,7 @@ What would help you move forward? Participants talked in practical terms about
 * the[ Getting Things Done](https://gettingthingsdone.com/) method, which has you break the project into detailed action steps
 * a recommended resource:[ The National Center for Faculty Development and Diversity](https://www.facultydiversity.org/)
 
-For writing projects, if you’re stuck or under a time constraint, one participant recommended the “IKEA Hacker” method, so named because you get all the components laid out in advance and “it’s very modular and function-oriented”: 
+For writing projects, if you’re stuck or under a time constraint, one participant recommended the “IKEA Hacker” method, so named because you get all the components laid out in advance and “it’s very modular and function-oriented”:
 
 * ID your purpose and audience
 * Use this info to direct your initial outline
@@ -80,7 +80,7 @@ For writing projects, if you’re stuck or under a time constraint, one particip
 * Play around with the order of your sections; add more if needed
 * Revise: “I don’t let myself perfect a paragraph or fall in love with my words until the final stage.”
 
-**The Challenge: DO IT!**
+### **The Challenge: DO IT!**
 
 Share in the comments what you’re doing this week along with any tips and resources for making progress, whatever that looks like.
 
