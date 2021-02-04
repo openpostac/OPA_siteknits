@@ -1,4 +1,4 @@
-baseURL = "https://opa-test.netlify.app"
+baseURL = "https://openpostac.org"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
