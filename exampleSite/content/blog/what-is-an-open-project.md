@@ -1,7 +1,7 @@
 +++
 author = ["Open Post Academics"]
 categories = []
-date = 2021-02-01T05:00:00Z
+date = 2021-01-25T05:00:00Z
 description = "Jumpstarting Open Projects (Week 1)"
 image = "/images/gia-oris-_um5_ng2ssc-unsplash.jpg"
 tags = ["ICYMI", "How-to", "Openness"]
