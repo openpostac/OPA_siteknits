@@ -84,6 +84,8 @@ What about you? Add your open project idea and next steps in the comments!
 
 _Hi 👋 I’m Katie Hynes. I was a participant in the January 2021 Jumpstarting Open Projects workshops. This blog series is my open project!_
 
+Photo credit: Gia Oris @giabyte via [Unsplash](https://unsplash.com/)
+
 ### **Resources**
 
 Want to learn more about openness? Here are other forms openness has taken in academic work:

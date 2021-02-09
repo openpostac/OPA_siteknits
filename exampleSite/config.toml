@@ -10,22 +10,24 @@ theme = "twentytwenty"
 title = "Open Post Academics"
 [markup.goldmark.renderer]
 unsafe = true
+[menu]
+desktop = ["About", "Blog", "Join Us"]
 [[menu.main]]
-URL = "contact"
-name = "Join Us"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+URL = "/"
+name = "Home"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+URL = "blog"
+name = "Blog"
+weight = 3
+[[menu.main]]
+URL = "contact"
+name = "Join Us"
+weight = 4
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -48,7 +50,7 @@ expire_days = 2
 [params.footer]
 address = ""
 content = ""
-copyright = "Copyright &copy; Except where otherwise noted, this website's content is licensed under [CC BY 4.0 attribution license](https://creativecommons.org/licenses/by/4.0/). Built with the [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty) template, ported to Hugo by [themefisher](https://themefisher.com)."
+copyright = "Open Post Academics (OPA) 2021 CC BY 4.0. Except where otherwise noted, this work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Built with the [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty) template, ported to Hugo by [themefisher](https://themefisher.com)."
 hours = ""
 title = ""
 [params.gallery]
