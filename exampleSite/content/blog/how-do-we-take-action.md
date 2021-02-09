@@ -1,9 +1,8 @@
 +++
 author = ["Open Post Academics"]
 categories = []
-date = ""
+date = 2021-02-08T05:00:00Z
 description = "Jumpstarting Open Projects! This is week 3 of 4"
-draft = true
 image = "/images/kid-circus-7vslk_9ghwa-unsplash.jpg"
 tags = ["How-to", "Openness", "ICYMI"]
 title = "How Do We Take Action?"
