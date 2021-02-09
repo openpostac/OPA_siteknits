@@ -9,3 +9,4 @@ tags = ["Openness", "How-to", "ICYMI"]
 title = "How Do We Finish?"
 
 +++
+Photo credit: Adam Winger @awcreativeut via [Unsplash](https://unsplash.com/)
