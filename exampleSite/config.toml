@@ -1,4 +1,4 @@
-baseURL = "https://opa-test.netlify.app"
+baseURL = "https://openpostac.org"
 disableLanguages = []
 disqusShortname = ""
 googleAnalytics = ""
@@ -10,17 +10,14 @@ theme = "twentytwenty"
 title = "Open Post Academics"
 [markup.goldmark.renderer]
 unsafe = true
-
 [[menu.desktop]]
 URL = "about"
 name = "About"
 weight = 1
-
 [[menu.desktop]]
 URL = "contact"
 name = "Join Us"
 weight = 2
-
 [[menu.main]]
 URL = "/"
 name = "Home"
