@@ -41,7 +41,7 @@ author = "Open Post Academics"
 description = "Empowering people with a PhD to bring their knowledge and expertise to the world"
 [params.banner]
 heading = "Open Post Academics"
-image = "/images/crop_flame.png"
+image = "/images/bd_flame_header.jpg"
 [params.blog]
 heading = "Empowering people with a PhD to bring their knowledge and expertise to the world"
 [params.call_to_action]
