@@ -47,7 +47,7 @@ Folks wrote about
 * reading Seth Godin’s work on[ shipping](https://99u.adobe.com/articles/6249/seth-godin-the-truth-about-shipping),[ fear of shipping](https://seths.blog/2010/06/fear-of-shipping/), and the[ Ship It Journal](https://seths.blog/wp-content/uploads/2012/05/theshipitjournal.pdf)
 * “turning on the bureaucratic part of yourself to overcome the anxiety around submitting/finishing” and/or having another person “pull the trigger” to send it off
 
-In discussing the value of open projects, OPA’s Beth Duckles reflected that the projects are not just about sharing knowledge with the world, but about tapping into what she calls the juice, the fire for those subjects and questions that might have originally led folks to grad school: “What openness says in response to somebody who loves a topic is _please love this topic more. Love it and share it with more people_.”
+In discussing the value of open projects, OPA’s Beth Duckles reflected that they are not just about sharing knowledge with the world, but about tapping into what she calls the juice, the fire for those subjects and questions that might have originally led folks to grad school: “What openness says in response to somebody who loves a topic is _please love this topic more. Love it and share it with more people_.”
 
 ### **Love Your Work and Share It Widely**
 
