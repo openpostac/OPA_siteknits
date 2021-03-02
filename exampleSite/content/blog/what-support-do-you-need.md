@@ -58,6 +58,6 @@ What do you need? Who are the people you'll contact this week to help push your 
 
 And you may or may not need to hear this right now, but it’s okay if your project changes.
 
-**Up Next: How Do We Take Action?**
+**Up Next:** [**How Do We Take Action?**](/blog/how-do-we-take-action/)
 
 Photo credit: Neil Thomas @finleydesign via [Unsplash](https://unsplash.com/)
