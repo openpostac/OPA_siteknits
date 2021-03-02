@@ -19,7 +19,7 @@ On the positive side, folks enjoyed being able to cross off a task (“to-do lis
 
 But people also felt like being done doesn’t mean the judgment stops. Participants wrote about the need to continually tweak, the fear of putting it out there, the looming next thing on the list. A sense of loss: “Destination never as good as the journey.” A pressure: “I feel like I’m supposed to ‘feel’ something that I don’t feel.”
 
-**Roadblocks to Finishing**
+### **Roadblocks to Finishing**
 
 Sometimes a project is really done, but we can’t bring ourselves to share it. Why?
 
@@ -33,9 +33,9 @@ Crashing, burning, brokenness—we imagine that if the project goes down, we’r
 
 Even a positive reception could be scary, as folks wrote about fears of overexposure, of “being too good—too seen.”
 
-### **Tools, Tips and Strategies to Clear the Final Hurdle**
+### **Tools, Tips, and Strategies to Clear the Final Hurdle**
 
-Despite the feelings surfacing close to the finish line, participants shared a desire to meet the challenge and complete their open projects. So, everyone considered a final question: “What would help you finish?”
+Despite the emotions surfacing close to the finish line, participants shared a desire to meet the challenge and complete their open projects. So, everyone considered a final question: “What would help you finish?”
 
 Folks wrote about
 
