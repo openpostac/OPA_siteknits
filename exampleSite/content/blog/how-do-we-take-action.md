@@ -34,7 +34,7 @@ One participant said they liked the excitement of that “first dive-in” stage
 * there’s zero motivation to make good on a commitment
 * the work doesn’t seem to matter
 
-Such situations make people feel heavy. Blocked. Huge resistance. Imposter syndrome. Like they’re spinning their wheels. Overwhelmed and overloaded. Just want it over with. “Like time is running out always.”
+Such situations make people feel heavy. Blocked. Huge resistance. Imposter syndrome. Like they’re spinning their wheels. Overwhelmed and overloaded. “Like time is running out always.”
 
 Other emotions that surface when folks struggle to take action: Shame. Fear. Anxiety. Dread. Grumpiness. Anger. Irritation. Tiredness. Boredom. Depression. Regret.
 
