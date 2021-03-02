@@ -9,7 +9,7 @@ tags = ["Openness", "How-to", "ICYMI"]
 title = "How Do We Finish?"
 
 +++
-Welcome back to Jumpstarting Open Projects! This is week 4 of 4 (Check out weeks 1, 2, and 3). Follow along as OPA leads a group of workshop participants through the full production cycle of a project that will help them share their knowledge with the world. You can do an open project, too!
+Welcome back to Jumpstarting Open Projects! This is week 4 of 4 (Check out weeks [1](/blog/what-is-an-open-project), 2, and 3). Follow along as OPA leads a group of workshop participants through the full production cycle of a project that will help them share their knowledge with the world. You can do an open project, too!
 
 ### **Week 4: Stuff that Comes Up at the End**
 
@@ -39,19 +39,13 @@ Despite the emotions surfacing close to the finish line, participants shared a d
 
 Folks wrote about
 
-\- making the original goal smaller
-
-\- using Pomodoros for a sense of incremental progress
-
-\- capping the amount of time to ultimately spend (see:[ Parkinson’s Law](https://lawsofux.com/parkinsons-law/))
-
-\- lowering too-high standards (e.g. shitty first drafts)
-
-\- leaning into community for accountability
-
-\- reading Seth Godin’s work on[ shipping](https://99u.adobe.com/articles/6249/seth-godin-the-truth-about-shipping),[ fear of shipping](https://seths.blog/2010/06/fear-of-shipping/), and the[ Ship It Journal](https://seths.blog/wp-content/uploads/2012/05/theshipitjournal.pdf)
-
-\- “turning on the bureaucratic part of yourself to overcome the anxiety around submitting/finishing” and/or having another person “pull the trigger” to send it off
+* making the original goal smaller
+* using Pomodoros for a sense of incremental progress
+* capping the amount of time to ultimately spend (see:[ Parkinson’s Law](https://lawsofux.com/parkinsons-law/))
+* lowering too-high standards (e.g. shitty first drafts)
+* leaning into community for accountability
+* reading Seth Godin’s work on[ shipping](https://99u.adobe.com/articles/6249/seth-godin-the-truth-about-shipping),[ fear of shipping](https://seths.blog/2010/06/fear-of-shipping/), and the[ Ship It Journal](https://seths.blog/wp-content/uploads/2012/05/theshipitjournal.pdf)
+* “turning on the bureaucratic part of yourself to overcome the anxiety around submitting/finishing” and/or having another person “pull the trigger” to send it off
 
 In discussing the value of open projects, OPA’s Beth Duckles reflected that the projects are not just about sharing knowledge with the world, but about tapping into what she calls the juice, the fire for those subjects and questions that might have originally led folks to grad school: “What openness says in response to somebody who loves a topic is _please love this topic more. Love it and share it with more people_.”
 
