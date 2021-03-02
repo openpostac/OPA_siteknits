@@ -80,7 +80,7 @@ To wrap up the first meeting, everyone wrote down next steps to push things forw
 
 What about you? Add your open project idea and next steps in the comments!
 
-**Up Next: What Support Do You Need?**
+**Up Next:** [**What Support Do You Need?**]()
 
 _Hi 👋 I’m Katie Hynes. I was a participant in the January 2021 Jumpstarting Open Projects workshops. This blog series is my open project!_
 
