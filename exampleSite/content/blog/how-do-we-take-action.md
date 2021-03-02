@@ -85,6 +85,6 @@ Share in the comments what you’re doing this week along with any tips and reso
 
 Remember: It’s okay if your project changes, goes faster or slower than you planned, or otherwise surprises you.
 
-**Up Next: How Do We Finish?**
+**Up Next:** [**How Do We Finish?**](/blog/how-do-we-finish/)
 
 Photo credit: Kid Circus @kidcircus via [Unsplash](https://unsplash.com/)
