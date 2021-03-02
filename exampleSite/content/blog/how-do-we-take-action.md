@@ -74,10 +74,10 @@ What would help you move forward? Participants talked in practical terms about
 For writing projects, if you’re stuck or under a time constraint, one participant recommended the “IKEA Hacker” method, so named because you get all the components laid out in advance and “it’s very modular and function-oriented”:
 
 * ID your purpose and audience
-* Use this info to direct your initial outline
-* Focus on drafting one chunk at at time, keeping purpose/audience top-of-mind
-* Play around with the order of your sections; add more if needed
-* Revise: “I don’t let myself perfect a paragraph or fall in love with my words until the final stage.”
+* use this info to direct your initial outline
+* focus on drafting one chunk at at time, keeping purpose/audience top-of-mind
+* play around with the order of your sections; add more if needed
+* revise: “I don’t let myself perfect a paragraph or fall in love with my words until the final stage.”
 
 ### **The Challenge: DO IT!**
 
