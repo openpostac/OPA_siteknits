@@ -9,7 +9,7 @@ tags = ["Openness", "How-to", "ICYMI"]
 title = "How Do We Finish?"
 
 +++
-Welcome back to Jumpstarting Open Projects! This is week 4 of 4 (Check out weeks [1](/blog/what-is-an-open-project), 2, and 3). Follow along as OPA leads a group of workshop participants through the full production cycle of a project that will help them share their knowledge with the world. You can do an open project, too!
+Welcome back to Jumpstarting Open Projects! This is week 4 of 4 (Check out weeks [1](/blog/what-is-an-open-project), [2](/blog/what-support-do-you-need), and [3](/blog/how-do-we-take-action/)). Follow along as OPA leads a group of workshop participants through the full production cycle of a project that will help them share their knowledge with the world. You can do an open project, too!
 
 ### **Week 4: Stuff that Comes Up at the End**
 
