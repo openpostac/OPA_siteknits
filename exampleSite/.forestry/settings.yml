@@ -18,7 +18,7 @@ sections:
 - type: directory
   path: exampleSite/content/problemworkshop
   label: Open Problem Workshop
-  create: documents
+  create: none
   match: "*"
   templates:
   - post
