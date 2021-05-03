@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 title = "Expanding Data Science: Open Problem Workshop"
 
 +++
