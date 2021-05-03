@@ -1,5 +1,5 @@
 ---
-title: Open Problem Workshop
+title: 'Open Problem Workshop: Expanding Data Science'
 description: This is meta description
 
 ---
