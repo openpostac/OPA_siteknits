@@ -4,14 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: exampleSite/content/problemworkshop
-  label: Open Problem Workshop
-  create: all
-  match: "**/*"
-  templates:
-  - post
-  - menu-page
 - type: heading
   label: Blog Post
 - type: directory
@@ -23,6 +15,14 @@ sections:
   - post
 - type: heading
   label: Others Pages
+- type: directory
+  path: exampleSite/content/problemworkshop
+  label: Open Problem Workshop
+  create: none
+  match: "*"
+  templates:
+  - post
+  - menu-page
 - type: directory
   path: exampleSite/content/about
   label: About
