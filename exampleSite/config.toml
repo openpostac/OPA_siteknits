@@ -18,6 +18,10 @@ weight = 3
 URL = "about"
 name = "About"
 weight = 1
+[[menu.desktop]]
+URL = "problemworkshop"
+name = "Open Problem Workshop"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
@@ -26,6 +30,10 @@ weight = 5
 URL = "contact"
 name = "Join Us"
 weight = 4
+[[menu.main]]
+URL = "problemworkshop"
+name = "Open Problem Workshop"
+weight = 3
 [[menu.main]]
 URL = "about"
 name = "About"
