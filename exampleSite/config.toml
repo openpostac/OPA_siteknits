@@ -37,7 +37,7 @@ weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 3
+weight = "5"
 [[menu.main]]
 URL = "contact"
 name = "Join Us"
