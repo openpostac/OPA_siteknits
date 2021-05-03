@@ -1,6 +1,12 @@
 +++
 description = ""
 title = "Expanding Data Science: Open Problem Workshop"
+[menu.desktop]
+name = "Open Problem Workshop"
+weight = 3
+[menu.main]
+name = "Open Problem Workshop"
+weight = 3
 
 +++
 Big data and machine learning are among the transformative technologies of our time, and have rewritten how we work as a society. We now face a monumental task of making our data driven world just, inclusive, equitable, safe, and accessible. This requires cross-disciplinary collaboration and new approaches to technology.
