@@ -1,26 +1,18 @@
 ---
-title: Sample Page
+title: Expanding Data Science: Open Problem Workshop
 description: This is meta description
-draft: true
 
 ---
-<p>This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show
-up in your site navigation (in most themes). Most people start with an About page that introduces them to
-potential site visitors. It might say something like this:</p>
+Big data and machine learning are among the transformative technologies of our time, and have rewritten how we work as a society. We now face a monumental task of making our data driven world just, inclusive, equitable, safe, and accessible. This requires cross-disciplinary collaboration and new approaches to technology.
 
-<blockquote class="wp-block-quote">
-<p>Hi there! I&#8217;m a bike messenger by day, aspiring actor by night, and this is my website. I live in Los
-Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin&#8217; caught in the rain.)
-</p>
-</blockquote>
+OPA approaches workshops in an intentional, collaborative and cross-disciplinary manner, so that people with PhDs can discover the real world problems that their expertise can help solve. We invite people from any discipline to join the discussion, listen to the problems and share what they know.
 
-<p>&#8230;or something like this:</p>
+This year, we are developing a new approach to collaborative conversations that expand the boundaries of expert communities: open problem workshops. With our pilot run, we are inviting people with a background in data science to join discussions with post academics.
 
-<blockquote class="wp-block-quote">
-<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever
-since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the
-Gotham community.</p>
-</blockquote>
+* If you have a PhD, join us to share your methods and expertise, and explore the surprising ways you can help the data science community.
+* If you come from data science, share the problems you encounter that would benefit from the fresh perspectives of experts that don’t often work in data science.
+* If you have a background in both academia and data science, you’re doubly invited!
 
-<p>As a new WordPress user, you should go to your dashboard to delete this
-page and create new pages for your content. Have fun!</p>
+We envision a world where data scientists have a deep well of expertise to work on complex societal problems and where people with a PhD offer their expertise with attention to the needs of the data science community.
+
+**Save this date: June 30, 2021 at noon PT/3:00pm ET** for our inaugural event. [Fill out this form](https://docs.google.com/forms/d/1JHzKF3Mfsi021Ey4vKVKwIRQXvN40SfkXSilHJtTpUY/edit) if you’d like us to send you a note when registration is available.
