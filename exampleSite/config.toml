@@ -23,6 +23,10 @@ URL = "contact"
 name = "Join Us"
 weight = "3"
 [[menu.main]]
+URL = "problemworkshop"
+name = "Open Problem Workshop"
+weight = "2"
+[[menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
