@@ -13,7 +13,7 @@ unsafe = true
 [[menu.desktop]]
 URL = "problemworkshop"
 name = "Open Problem Workshop"
-weight = "1"
+weight = "2"
 [[menu.desktop]]
 URL = "about"
 name = "About"
