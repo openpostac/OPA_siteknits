@@ -1,8 +1,13 @@
----
-title: Expanding Data Science: Open Problem Workshop
-description: This is meta description
++++
+author = []
+categories = []
+date = ""
+description = ""
+image = ""
+tags = []
+title = "Open Problem Workshop"
 
----
++++
 Big data and machine learning are among the transformative technologies of our time, and have rewritten how we work as a society. We now face a monumental task of making our data driven world just, inclusive, equitable, safe, and accessible. This requires cross-disciplinary collaboration and new approaches to technology.
 
 OPA approaches workshops in an intentional, collaborative and cross-disciplinary manner, so that people with PhDs can discover the real world problems that their expertise can help solve. We invite people from any discipline to join the discussion, listen to the problems and share what they know.

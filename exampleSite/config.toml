@@ -11,37 +11,29 @@ title = "Open Post Academics"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
-URL = "problemworkshop"
-name = "Open Problem Workshop"
-weight = "2"
+URL = "contact"
+name = "Join Us"
+weight = 3
 [[menu.desktop]]
 URL = "about"
 name = "About"
 weight = 1
-[[menu.desktop]]
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 5
+[[menu.main]]
 URL = "contact"
 name = "Join Us"
-weight = "3"
-[[menu.main]]
-URL = "problemworkshop"
-name = "Open Problem Workshop"
-weight = "3"
-[[menu.main]]
-URL = "/"
-name = "Home"
-weight = 1
+weight = 4
 [[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = "5"
-[[menu.main]]
-URL = "contact"
-name = "Join Us"
-weight = "4"
+URL = "/"
+name = "Home"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
