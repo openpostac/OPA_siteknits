@@ -11,33 +11,41 @@ title = "Open Post Academics"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.desktop]]
-URL = "contact"
-name = "Join Us"
-weight = 3
-[[menu.desktop]]
 URL = "about"
 name = "About"
-weight = 1
+weight = 4
+[[menu.desktop]]
+name = "Resources"
+url = "http://book.openpostac.org/"
+weight = 3
 [[menu.desktop]]
 URL = "problemworkshop"
 name = "Open Problem Workshop"
 weight = 2
+[[menu.desktop]]
+URL = "contact"
+name = "Join Us"
+weight = 1
+[[menu.main]]
+name = "Resources"
+url = "http://book.openpostac.org/"
+weight = 5
+[[menu.main]]
+URL = "problemworkshop"
+name = "Open Problem Workshop"
+weight = 3
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 5
+weight = 4
 [[menu.main]]
 URL = "contact"
 name = "Join Us"
-weight = 4
-[[menu.main]]
-URL = "problemworkshop"
-name = "Open Problem Workshop"
-weight = 3
+weight = 2
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 2
+weight = 6
 [[menu.main]]
 URL = "/"
 name = "Home"
