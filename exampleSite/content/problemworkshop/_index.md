@@ -1,7 +1,6 @@
 ---
 title: 'Open Problem Workshop: Expanding Data Science'
-description: A new approach to building purposeful, targeted bridges across expert
-  communities
+description: Purposeful, targeted bridges across expert communities
 
 ---
 Big data and machine learning are among the transformative technologies of our time, and have rewritten how we work as a society. We now face the monumental task of making our data driven world just, inclusive, equitable, safe, and accessible. This requires cross-disciplinary collaboration and new approaches to technology.
@@ -18,4 +17,6 @@ We envision a world where data scientists have access to the full range of exper
 
 **Save this date: June 30, 2021 at noon PT/3:00pm ET** for our inaugural event. [Fill out this form](https://docs.google.com/forms/d/1JHzKF3Mfsi021Ey4vKVKwIRQXvN40SfkXSilHJtTpUY/edit) if you’d like us to send you a note when registration is available.
 
-This project is jointly coordinated by Beth M. Duckles, Ph.D, Borhane Blili-Hamelin, Ph.D, and Marie-Ève Monette, Ph.D. We are supported by a grant from the [Code for Science and Society’s Event Fund](https://eventfund.codeforscience.org/).
+This project is jointly coordinated by Beth M. Duckles, Ph.D, Borhane Blili-Hamelin, Ph.D, and Marie-Ève Monette, Ph.D. 
+
+This event was funded in full by a grant from [Code for Science & Society,](https://codeforscience.org/) made possible by [grant number GBMF8449 from the Gordon and Betty Moore Foundation](https://doi.org/10.37807/GBMF8449).
