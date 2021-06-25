@@ -12,7 +12,7 @@ title = "Open Post Academics"
 unsafe = true
 [[menu.desktop]]
 URL = "http://book.openpostac.org/"
-name = "resources"
+name = "Resources"
 weight = "4"
 [[menu.desktop]]
 URL = "contact"
