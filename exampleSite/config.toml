@@ -62,7 +62,7 @@ image = "/images/bd_flame_header.jpg"
 heading = "Empowering people with a PhD to bring their knowledge and expertise to the world"
 [params.call_to_action]
 button_label = "Sign Up"
-button_url = "https://www.mixily.com/listing/12405727515612781"
+button_url = "https://www.eventbrite.com/o/open-post-academics-33501090491"
 content = "We regularly run events for people with a PhD. Join us for our weekly coffee chats or for workshops on the many facets of leaving academia."
 enable = true
 title = "Upcoming Events"
