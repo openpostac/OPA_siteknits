@@ -1,6 +1,6 @@
 ---
 title: About
-description: This is meta description
+description: OPA's values, mission, and structure
 
 ---
 We are an international, interdisciplinary, collaborative, peer-led community that empowers people with a PhD to bring their knowledge and expertise to the world. We support one another, we share resources and we encourage one another to share our skills and resources with folks outside of academia.
