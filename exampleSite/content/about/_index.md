@@ -34,3 +34,13 @@ The academy is changing immeasurably. We need new systems and networks to suppor
 We acknowledge the toxicity of the academic system and we name its misogynistic, racist, and classist dimensions. We’re here to acknowledge the difficulty of moving away from the toxicity and the challenge of shifting and transforming the academic system. We advocate for healing.
 
 We know how hard it is. We’re not here to tell you what to do. We’re here to help you figure out what skills and knowledge you can share with the world and to help you do it.
+
+## Our Organization
+
+Open Post Academics is a [fiscally sponsored](https://opencollective.com/open-post-academics) 501(c)(3) project of the Open Collective Foundation.
+
+### Leadership
+
+Our **Co-Directors** are [Beth M. Duckles, PhD](), and [Borhane Blili-Hamelin, PhD]().
+
+Our **Advisory Board Members** are: Debra Erickson, PhD, Sandalia Genus, PhD, Derric Jacobs, PhD Marie-Eve Monette, PhD, Sara Schley, PhD, and Wylie Wan, PhD
