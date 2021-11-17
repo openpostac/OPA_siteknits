@@ -1,5 +1,5 @@
 +++
-author = []
+author = ["Beth M. Duckles, Ph.D."]
 categories = []
 date = 2021-11-17T05:00:00Z
 description = "Four Metaphors About the Academy"
@@ -9,8 +9,6 @@ title = "Four Metaphors About the Academy"
 
 +++
 **Four Metaphors About the Academy**
-
-**by Beth M. Duckles, Ph.D.**
 
 While doing research on and talking with people who have left academic positions, I noticed four metaphors that people commonly used to describe their relationship to the academy. These metaphors are ways of describing the pain and challenges folks have faced, and the shifts they need to make to transition out of higher education.
 
