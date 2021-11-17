@@ -3,7 +3,6 @@ author = []
 categories = []
 date = 2021-11-17T05:00:00Z
 description = "Four Metaphors About the Academy"
-draft = true
 image = "/images/annie-spratt-xyp68vouusy-unsplash.jpg"
 tags = []
 title = "Four Metaphors About the Academy"
