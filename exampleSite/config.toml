@@ -28,7 +28,7 @@ name = "Open Problem Workshop"
 weight = 2
 [[menu.main]]
 URL = "http://book.openpostac.org/"
-name = "resources"
+name = "Resources"
 weight = "6"
 [[menu.main]]
 URL = "blog"
