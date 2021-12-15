@@ -16,7 +16,7 @@ name = "Resources"
 weight = "4"
 [[menu.desktop]]
 URL = "contact"
-name = "Join Us"
+name = "Events & Community"
 weight = 3
 [[menu.desktop]]
 URL = "about"
