@@ -1,7 +1,7 @@
 ---
-title: Join Us
+title: Events & Community (Join Us)
 bg_image: ''
-description: How to Join Us
+description: How to Join our Events and Community
 
 ---
 ### **Upcoming Events and Coffee Chats**
