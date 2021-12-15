@@ -36,7 +36,7 @@ name = "Blog"
 weight = 5
 [[menu.main]]
 URL = "contact"
-name = "Join Us"
+name = "Events & Community"
 weight = 4
 [[menu.main]]
 URL = "problemworkshop"
