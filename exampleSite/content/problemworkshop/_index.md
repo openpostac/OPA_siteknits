@@ -3,7 +3,7 @@ title: 'Open Problem Workshop: Expanding Data Science'
 description: Targeted bridges across expert communities
 
 ---
-**_NOTE: In January 2022, we will be releasing a toolkit for cross-disciplinary workshops, sharing insights from our Open Problem Workshop series (_**[**_draft available here_**](https://drive.google.com/file/d/1ANOTI4BuEUasBO2miTFqZq5FNy0lJyR3/view?usp=sharing)**_)._** 
+**_In January 2022, we will be releasing a toolkit for cross-disciplinary workshops, sharing insights from our Open Problem Workshop series (_**[**_draft available here_**](https://drive.google.com/file/d/1ANOTI4BuEUasBO2miTFqZq5FNy0lJyR3/view?usp=sharing)**_)._**
 
 ***
 
@@ -21,7 +21,7 @@ This year, we are developing a new approach to collaborative conversations that 
 
 We envision a world where data scientists have access to the full range of expertise PhD’s bring to complex social problems, and where people with a PhD offer their expertise with attention to the needs of the data science community.
 
-Our inaugural event was held: June 30, 2021 at noon PT/3:00pm ET. 
+Our inaugural event was held: June 30, 2021 at noon PT/3:00pm ET.
 
 This project is jointly coordinated by Beth M. Duckles, Ph.D, Borhane Blili-Hamelin, Ph.D, and Marie-Ève Monette, Ph.D.
 
