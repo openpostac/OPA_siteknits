@@ -16,8 +16,8 @@ sections:
 - type: heading
   label: Others Pages
 - type: directory
-  path: exampleSite/content/problemworkshop
-  label: Open Problem Workshop
+  path: exampleSite/content/toolkit
+  label: Toolkit for Cross-Diciplinary Workshops
   create: none
   match: "*"
   templates:
