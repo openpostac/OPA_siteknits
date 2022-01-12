@@ -27,6 +27,10 @@ name = "Resources"
 url = "http://book.openpostac.org/"
 weight = 5
 [[menu.main]]
+URL = "problemworkshop"
+name = "Open Problem Workshop"
+weight = 3
+[[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 4
