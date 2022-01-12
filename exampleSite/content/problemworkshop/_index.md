@@ -1,17 +1,12 @@
 ---
-title: Open Problem Workshop
+title: Toolkit for Cross-Disciplinary Workshop
 description: This is meta description
-menu:
-  main:
-    URL: problemworkshop
-    name: Toolkit for Cross-Diciplinary Workshops
-    weight: 3
-  desktop:
-    URL: problemworkshop
-    name: Toolkit for Cross-Diciplinary Workshops
-    weight: 2
 
 ---
+**Note: We are currently finalizing a** [**Toolkit for Cross-Disciplinary Workshops (forthcoming in January, draft here**](https://drive.google.com/file/d/13U4DxVo8JNGlOptfGJ1g2WrKwofQXAU8/view?usp=sharing)**) sharing insights from our Open Problem Workshop series. The page below, describing the Open Problem Workshop, will be updated after the Toolkit's launch.**
+
+***
+
 Big data and machine learning are among the transformative technologies of our time, and have rewritten how we work as a society. We now face a monumental task of making our data driven world just, inclusive, equitable, safe, and accessible. This requires cross-disciplinary collaboration and new approaches to technology.
 
 OPA approaches workshops in an intentional, collaborative and cross-disciplinary manner, so that people with PhDs can discover the real world problems that their expertise can help solve. We invite people from any discipline to join the discussion, listen to the problems and share what they know.
