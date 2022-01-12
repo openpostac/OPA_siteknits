@@ -3,7 +3,7 @@ title: 'Open Problem Workshop: Expanding Data Science'
 description: Targeted bridges across expert communities
 
 ---
-_Note: In January 2022, we will be releasing a toolkit for cross-disciplinary workshops, sharing insights from our Open Problem Workshop series (_[_draft available here_](https://drive.google.com/file/d/1ANOTI4BuEUasBO2miTFqZq5FNy0lJyR3/view?usp=sharing)_)._
+_Note: In January 2022, we will be releasing a toolkit for cross-disciplinary workshops, sharing insights from our Open Problem Workshop series (_[_draft available here_](https://drive.google.com/file/d/13U4DxVo8JNGlOptfGJ1g2WrKwofQXAU8/view?usp=sharing)_)._
 
 ***
 
