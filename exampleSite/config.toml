@@ -40,7 +40,7 @@ name = "Events & Community"
 weight = 4
 [[menu.main]]
 URL = "problemworkshop"
-name = "Open Problem Workshop"
+name = "Toolkit for Cross-Disciplinary Workshops"
 weight = 3
 [[menu.main]]
 URL = "about"
