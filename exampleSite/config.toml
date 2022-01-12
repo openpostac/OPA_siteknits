@@ -24,7 +24,7 @@ name = "About"
 weight = 1
 [[menu.desktop]]
 URL = "problemworkshop"
-name = "Toolkit for Cross-Disciplinary Workshops"
+name = "Open Problem Workshop"
 weight = 2
 [[menu.main]]
 URL = "http://book.openpostac.org/"
