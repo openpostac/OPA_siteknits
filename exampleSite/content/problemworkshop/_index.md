@@ -2,6 +2,10 @@
 title: Open Problem Workshop
 description: This is meta description
 menu:
+  main:
+    URL: problemworkshop
+    name: Toolkit for Cross-Diciplinary Workshops
+    weight: 3
   desktop:
     URL: problemworkshop
     name: Toolkit for Cross-Diciplinary Workshops
