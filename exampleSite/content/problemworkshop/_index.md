@@ -1,28 +1,51 @@
 ---
-title: 'Open Problem Workshop: Expanding Data Science'
-description: Targeted bridges across expert communities
+title: Toolkit for Cross-Disciplinary Workshops
+description: We built a Toolkit for Cross-Disciplinary Workshops. This page tells
+  the toolkit's backstory!
 
 ---
-_Note: In January 2022, we will be releasing a toolkit for cross-disciplinary workshops, sharing insights from our Open Problem Workshop series (_[_draft available here_](https://drive.google.com/file/d/13U4DxVo8JNGlOptfGJ1g2WrKwofQXAU8/view?usp=sharing)_)._
+[**Get the toolkit here**](https://doi.org/10.5281/zenodo.6026972)
 
-***
+![](/images/opa-toolkit-cover-square.jpg)
 
-Big data and machine learning are among the transformative technologies of our time, and have rewritten how we work as a society. We now face the monumental task of making our data driven world just, inclusive, equitable, safe, and accessible.
+### **Summary**
 
-The topic of our June 30 2021 workshop was the unique challenges of cross-disciplinarity in data science: such as power differentials between those with traditional and non-traditional backgrounds, programming and computation skills, compensation, the use of outside expertise, etc.
+_This toolkit shares insights and strategies from our 2021 pilot Open Problem Workshop series. We asked how might we help rethink how real world problems call for the expertise of PhDs from all fields?_
 
-OPA approaches workshops in an intentional, collaborative and cross-disciplinary manner, so that people with PhDs can discover the real world problems that their expertise can help solve. We invite people from any discipline to join the discussion, listen to the problems and share what they know.
+_For those interested in hosting a cross-disciplinary workshop, we have assembled a toolkit of nine activities and suggestions on how to facilitate those activities in an online, collaborative setting. We uncovered three core insights and five guideposts for building successful cross-disciplinary workshops._
 
-This year, we are developing a new approach to collaborative conversations that build targeted bridges across expert communities: Open Problem Workshops. With our pilot, our goal is to create a collaborative environment for discussing the problems faced by the data science community, and the insights of PhDs from outside data science.
+_We believe that openness requires us to empower other communities to replicate, fork, and remix our insights._
 
-* If you have a PhD in any field, join us to share your methods and expertise, and explore the surprising ways you can help the data science community.
-* If you come from data science, share the problems you encounter that would benefit from the fresh perspectives of experts that don’t often work in data science.
-* If you have a background in both academia and data science, you’re doubly invited!
+### **Why did we build this toolkit?**
 
-We envision a world where data scientists have access to the full range of expertise PhD’s bring to complex social problems, and where people with a PhD offer their expertise with attention to the needs of the data science community.
+Folks with a PhD are often quite interested in complex, challenging issues that face the world, but they can struggle to understand how they can contribute to these issues meaningfully when they are trying to shift their focus outside of academia.
 
-Our inaugural event was held: June 30, 2021 at noon PT/3:00pm ET.
+Similarly, fields that need wide ranging expertise often don't know what folks with a PhD do, and do not know which experts to turn to. They may have a hunch there are things that would be helpful to learn from anthropologists, linguists, philosophers, historians and other scholars, but they don't know where to start looking for those people, and how to get the input they need from the experts they do talk to.
 
-This project is jointly coordinated by Beth M. Duckles, Ph.D, Borhane Blili-Hamelin, Ph.D, and Marie-Ève Monette, Ph.D.
+Open Post Academics is focused on that gap. **How might we build new bridges between folks with PhDs and communities around pressing global problems? How might we help rethink how real world problems call for the expertise of PhDs from all fields?**
 
-This event was funded by a grant from [Code for Science & Society,](https://codeforscience.org/) made possible by [grant number GBMF8449 from the Gordon and Betty Moore Foundation](https://doi.org/10.37807/GBMF8449).
+A topic such as big data or machine learning is a helpful example of a broad issue that could use a bridge of this sort. For people with a humanities or social science PhD, these fields can seem like the sole domain of data scientists, engineers and folks from STEM. And yet, these are transformative technologies of our time and they are and have rewritten the way that we function as a society. We need to find ways to bridge the work of these fields with broader expertise and more collaboration among those who work in data science.
+
+We ran a workshop in 2021 which was funded by the inaugural Code for Science & Society Event Fund Grant. OPA is known for bringing online collaborative open workshops to bridge best practices from the open science community and the worlds of social science, the humanities and pedagogy. We wanted to bring those skills to the problem of how to connect the data science community with folks with a PhD.
+
+Our goal was to develop an approach to cross-disciplinary events that
+
+1. Leverages insights and participation from across many disciplines
+2. Helps explore the fit between problems in the data science community and resources of PhDs from outside data science and
+3. Creates a model adaptable to other kinds of cross-disciplinary collaborations
+
+We believe that openness requires us to empower other communities to **replicate, fork, and remix our insights.** This is why we’re proud to share the resulting toolkit as a starting model and set of resources for cross-disciplinary collaborations.
+
+The toolkit articulates the insights we gained and invites readers to look at the specifics of our Open Problem Workshop Series pilot as a case study in how to turn those insights into action, especially in the challenging conditions of online-first events. For those interested in hosting a cross-disciplinary workshop, we have assembled a toolkit of nine activities and suggestions for how to facilitate those activities in an online, collaborative setting.
+
+We uncovered three core insights and five guideposts for building successful cross-disciplinary workshops. These are hopefully pieces that folks can adapt and include in any kind of cross-disciplinary workshop they might run.
+
+Let us know how you use these materials, we’d love to learn from your experiences!
+
+**Keywords: Cross-disciplinary, Open workshops, Open knowledge, Open science**
+
+**Co-authors**: Beth M. Duckles, Borhane Blili-Hamelin, Marie-Ève Monette
+
+Cover designed by Borhane Blili-Hamelin
+
+**Get the Toolkit here**: [https://doi.org/10.5281/zenodo.6026972](https://doi.org/10.5281/zenodo.6026972 "https://doi.org/10.5281/zenodo.6026972")
