@@ -1,64 +1,48 @@
 +++
 author = ["Open Post Academics"]
-categories = []
-date = 2021-02-01T05:00:00Z
-description = "Jumpstarting Open Projects! This is week 2 of 4"
+categories = ["Open Workshops"]
+date = 2022-02-16T05:00:00Z
+description = "We built a Toolkit for Cross-Disciplinary Workshops. This post tells the toolkit's backstory!"
 draft = true
-image = "/images/neil-thomas-siu1glk6v5k-unsplash.jpg"
-tags = ["ICYMI", "How-to", "Openness"]
-title = "What Support Do You Need?-(copy)"
+image = "/images/opa-toolkit-cover-square.jpg"
+tags = ["Open science", "Open knowledge", "Cross-disciplinary", "Open workshops", "Openness"]
+title = "Toolkit for Cross-Disciplinary Workshops"
 
 +++
-Welcome back to Jumpstarting Open Projects! This is week 2 of 4 ([Find week 1 here](/blog/what-is-an-open-project/ "Find week 1 here")). Follow along as OPA leads a group of workshop participants through the full production cycle of a project that will help them share their knowledge with the world. You can do an open project, too!
+[**Get the toolkit here**](https://doi.org/10.5281/zenodo.6026972)
 
-### **Week 2: Reach Out to Trusted Advisors**
+### **Summary**
 
-It can be hard to ask for help. You might feel like you shouldn’t need it. And making a request can be nerve-wracking, awkward, or otherwise fraught.
+_This toolkit shares insights and strategies from our 2021 pilot Open Problem Workshop series. We asked how might we help rethink how real world problems call for the expertise of PhDs from all fields?_
 
-To give yourself some grace around this, think back to people who’ve been in your corner before, helping you navigate challenges and celebrate successes.
+_For those interested in hosting a cross-disciplinary workshop, we have assembled a toolkit of nine activities and suggestions on how to facilitate those activities in an online, collaborative setting. We uncovered three core insights and five guideposts for building successful cross-disciplinary workshops._
 
-Workshop participants considered times they’d gotten support in the past—the fantastic experiences and the less-than-helpful ones.
+_We believe that openness requires us to empower other communities to replicate, fork, and remix our insights._
 
-**Some agreement emerged about what doesn’t work:**
+### **Why did we build this toolkit?**
 
-* inflexible, out-of-touch supervisors
-* lack of feedback (or too much), which creates confusion and unclear expectations
-* bad or incompatible project management styles—undefined goals, a vague roadmap, lack of structure, last-minute demands for big changes
-* long gaps between one check-in and another
-* criticism, pressure, threats, blame, and abuse
+Folks with a PhD are often quite interested in complex, challenging issues that face the world, but they can struggle to understand how they can contribute to these issues meaningfully when they are trying to shift their focus outside of academia.
 
-**…and what does work:**
+Similarly, fields that need wide ranging expertise often don't know what folks with a PhD do, and do not know which experts to turn to. They may have a hunch there are things that would be helpful to learn from anthropologists, linguists, philosophers, historians and other scholars, but they don't know where to start looking for those people, and how to get the input they need from the experts they do talk to.
 
-* accountability buddies
-* constructive, well-timed, and non-judgmental feedback
-* assistance with chunking big to-dos into manageable pieces
-* consistent check-ins and a respect for process before product
-* guidance, trust, care, and belief that people have intrinsic worth that’s not tied to doing and producing
+Open Post Academics is focused on that gap. **How might we build new bridges between folks with PhDs and communities around pressing global problems? How might we help rethink how real world problems call for the expertise of PhDs from all fields?**
 
-Next, everyone took a few minutes to list folks who could be their supporters and sounding boards.
+A topic such as big data or machine learning is a helpful example of a broad issue that could use a bridge of this sort. For people with a humanities or social science PhD, these fields can seem like the sole domain of data scientists, engineers and folks from STEM. And yet, these are transformative technologies of our time and they are and have rewritten the way that we function as a society. We need to find ways to bridge the work of these fields with broader expertise and more collaboration among those who work in data science.
 
-The list included a partner, friends, a former collaborator, coaches, a therapist. Someone who’s been “[in the arena](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic).”
+We ran a workshop in 2021 which was funded by the inaugural Code for Science & Society Event Fund Grant. OPA is known for bringing online collaborative open workshops to bridge best practices from the open science community and the worlds of social science, the humanities and pedagogy. We wanted to bring those skills to the problem of how to connect the data science community with folks with a PhD.
 
-> “Asking for the kind of feedback that you want/need makes it much easier to get.”
+Our goal was to develop an approach to cross-disciplinary events that
 
-This was an insight that came out of the group discussion. Figuring out whether you need encouragement, big-picture comments, proofreading, opinions and advice, validation and understanding, or some combo of different elements can up the chances you’ll come away from your feedback session ready to tackle whatever’s next.
+1. Leverages insights and participation from across many disciplines
+2. Helps explore the fit between problems in the data science community and resources of PhDs from outside data science and
+3. Creates a model adaptable to other kinds of cross-disciplinary collaborations
 
-Some things participants said they needed: Time. Vulnerability. Support. A realistic to-do list. Patience. Accountability. Brené Brown. People who care. Rest.
+We believe that openness requires us to empower other communities to **replicate, fork, and remix our insights.** This is why we’re proud to share the resulting toolkit as a starting model and set of resources for cross-disciplinary collaborations.
 
-And these demons were getting in the way: Lack of self-belief. Burnout. Exhaustion. Shame. Fear. Procrastination. “Graveyards of half-finished projects” and “ghosts of past projects.”
+The toolkit articulates the insights we gained and invites readers to look at the specifics of our Open Problem Workshop Series pilot as a case study in how to turn those insights into action, especially in the challenging conditions of online-first events. For those interested in hosting a cross-disciplinary workshop, we have assembled a toolkit of nine activities and suggestions for how to facilitate those activities in an online, collaborative setting.
 
-### **Getting Unblocked**
+We uncovered three core insights and five guideposts for building successful cross-disciplinary workshops. These are hopefully pieces that folks can adapt and include in any kind of cross-disciplinary workshop they might run.
 
-Workshop attendees were already turning to one another for support and resources, and from these conversations came some recommendations. One participant suggested an[ exercise](https://www.designkit.org/methods/66) called “[5 whys](https://www.atlassian.com/team-playbook/plays/5-whys)” to find the root of an issue and work through roadblocks.
+Let us know how you use these materials, we’d love to learn from your experiences!
 
-To cope with shame, another participant referenced an exercise from Brené Brown’s book, _I Thought It Was Just Me (But It Isn’t)_. List the top 5 ways you do not want people to see you. Then ask, “If people reduce me to this list, what important and wonderful things will they miss about me?”
-
-### **Finding Support**
-
-What do you need? Who are the people you'll contact this week to help push your project forward? (It doesn’t have to be those you already know!)
-
-And you may or may not need to hear this right now, but it’s okay if your project changes.
-
-**Up Next:** [**How Do We Take Action?**](/blog/how-do-we-take-action/)
-
-Photo credit: Neil Thomas @finleydesign via [Unsplash](https://unsplash.com/)
+**Keywords: Cross-disciplinary, Open workshops, Open knowledge, Open science**
