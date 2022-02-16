@@ -46,6 +46,12 @@ Let us know how you use these materials, we’d love to learn from your experien
 
 **Co-authors**: Beth M. Duckles, Borhane Blili-Hamelin, Marie-Ève Monette
 
-Cover designed by Borhane Blili-Hamelin
+**Design** by Borhane Blili-Hamelin
+
+**Toolkit editor**: Debra Erickson
+
+**Grant writers**: Alexis Cooke, Beth M. Duckles, Betsy A. Brunner, Borhane Blili-Hamelin, Carina Moss, Marie-Eve Monette, Mrin Bhattacharya, Ran Xiang, Sara Schley, Stavana Strutz, and Susan T. Jackson
+
+This project was made possible by a **grant** from [Code for Science & Society](https://codeforscience.org/). 
 
 **Get the Toolkit here**: [https://doi.org/10.5281/zenodo.6026972](https://doi.org/10.5281/zenodo.6026972 "https://doi.org/10.5281/zenodo.6026972")
