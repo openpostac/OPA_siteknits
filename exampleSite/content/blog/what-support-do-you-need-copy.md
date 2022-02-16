@@ -46,3 +46,5 @@ We uncovered three core insights and five guideposts for building successful cro
 Let us know how you use these materials, we’d love to learn from your experiences!
 
 **Keywords: Cross-disciplinary, Open workshops, Open knowledge, Open science**
+
+Co-authors: Beth M. Duckles, Borhane Blili-Hamelin, Marie-Ève Monette
