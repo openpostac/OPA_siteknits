@@ -48,3 +48,5 @@ Let us know how you use these materials, we’d love to learn from your experien
 **Keywords: Cross-disciplinary, Open workshops, Open knowledge, Open science**
 
 Co-authors: Beth M. Duckles, Borhane Blili-Hamelin, Marie-Ève Monette
+
+Get the Toolkit here: [https://doi.org/10.5281/zenodo.6026972](https://doi.org/10.5281/zenodo.6026972 "https://doi.org/10.5281/zenodo.6026972")
