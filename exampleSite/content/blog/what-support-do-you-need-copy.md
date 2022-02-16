@@ -3,7 +3,6 @@ author = ["Open Post Academics"]
 categories = ["Open Workshops"]
 date = 2022-02-16T05:00:00Z
 description = "We built a Toolkit for Cross-Disciplinary Workshops. This post tells the toolkit's backstory!"
-draft = true
 image = "/images/opa-toolkit-cover-square.jpg"
 tags = ["Open science", "Open knowledge", "Cross-disciplinary", "Open workshops", "Openness"]
 title = "Toolkit for Cross-Disciplinary Workshops"
