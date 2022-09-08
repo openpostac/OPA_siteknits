@@ -3,7 +3,6 @@ author = ["Beth M. Duckles, Ph.D.", "Borhane Blili-Hamelin, Ph.D."]
 categories = []
 date = 2022-09-08T04:00:00Z
 description = "Leaving the Academy: A Participatory Open Research Approach (Fall 2022)"
-draft = true
 image = "/images/cdd20-gppkbwun_qc-unsplash.jpg"
 tags = []
 title = "Leaving the Academy: A Participatory Open Research Approach (Fall 2022)"
