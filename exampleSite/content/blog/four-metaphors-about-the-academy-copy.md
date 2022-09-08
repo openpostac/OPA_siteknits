@@ -9,7 +9,9 @@ tags = []
 title = "Leaving the Academy: A Participatory Open Research Approach (Fall 2022)"
 
 +++
-We’re creating an open participatory research project to explore the experiences of people who have left academia. Come collaborate with us!
+We’re creating an open participatory research project to explore the experiences of people who have left academia. Come collaborate with us! 
+
+[The first meeting will be on Sept 21, from 3 to 4pm ET, noon to 1pm PT.](https://www.eventbrite.com/e/leaving-the-academy-a-participatory-open-research-approach-fall-2022-tickets-416064298517)
 
 ### **Why?**
 
@@ -41,7 +43,7 @@ Collaborators will have an engaging experience of doing research in a team setti
 
 We would love for you to join us for our opening workshop if you’re interested in being a collaborator.
 
-The first meeting will be on Sept 21, from 3 to 4pm ET, noon to 1pm PT.
+[The first meeting will be on Sept 21, from 3 to 4pm ET, noon to 1pm PT.](https://www.eventbrite.com/e/leaving-the-academy-a-participatory-open-research-approach-fall-2022-tickets-416064298517)
 
 ### **More on the Participatory Process**
 
