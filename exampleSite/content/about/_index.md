@@ -21,6 +21,6 @@ Open Post Academics is a [fiscally sponsored](https://opencollective.com/open-po
 
 ### Leadership
 
-Our **Co-Directors** are [Beth M. Duckles, PhD](https://bethduckles.com/), and [Borhane Blili-Hamelin, PhD](https://www.linkedin.com/in/borhane/).
+Our **Co-Directors** are [Beth M. Duckles, PhD](https://bethduckles.com/), and [Borhane Blili-Hamelin, PhD](https://borhane.xyz/).
 
 Our **Advisory Board Members** are: Debra Erickson, PhD, Sandalia Genus, PhD, Derric Jacobs, PhD Marie-Eve Monette, PhD, Sara Schley, PhD, and Wylie Wan, PhD
