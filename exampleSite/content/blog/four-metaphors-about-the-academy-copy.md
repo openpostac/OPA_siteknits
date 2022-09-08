@@ -15,7 +15,7 @@ We’re creating an open participatory research project to explore the experienc
 
 ### **Why?**
 
-About five years ago, Beth did a survey of women who had left academia and it was really well received \[\[LINK\]\]. Since that study, Open Post Academics’ community has come together to talk more about the realities of the challenges of leaving academia.
+About five years ago, [Beth did a survey of women who had left academia and it was really well received](https://static1.squarespace.com/static/5a0cc397f09ca473053aea14/t/5aa700b071c10baf62f8ea88/1520894128791/What+I+Wish+I+Had+KnownFINAL.pdf). Since that study, Open Post Academics’ community has come together to talk more about the realities of the challenges of leaving academia.
 
 Much of the research about folks who leave academia tends to be case studies. We think it would be good to better understand the realities of leaving, and to continue to gather advice and insights from folks who know what it’s like to have a post academic career.
 
