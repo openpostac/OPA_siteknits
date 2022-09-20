@@ -8,13 +8,13 @@ tags = []
 title = "Leaving the Academy: A Participatory Open Research Approach (Fall 2022)"
 
 +++
-We’re creating an open participatory research project to explore the experiences of people who have left academia. Come collaborate with us! 
+We’re creating an open participatory research project to explore the experiences of people who have left academia. Come collaborate with us!
 
 [The first meeting will be on Sept 21, from 3 to 4pm ET, noon to 1pm PT.](https://www.eventbrite.com/e/leaving-the-academy-a-participatory-open-research-approach-fall-2022-tickets-416064298517)
 
 ### **Why?**
 
-About five years ago, [Beth did a survey of women who had left academia and it was really well received](https://static1.squarespace.com/static/5a0cc397f09ca473053aea14/t/5aa700b071c10baf62f8ea88/1520894128791/What+I+Wish+I+Had+KnownFINAL.pdf). Since that study, Open Post Academics’ community has come together to talk more about the realities of the challenges of leaving academia.
+About five years ago, [Beth did a survey of women who had left academia and it was really well received](https://doi.org/10.5281/ZENODO.7097360). Since that study, Open Post Academics’ community has come together to talk more about the realities of the challenges of leaving academia.
 
 Much of the research about folks who leave academia tends to be case studies. We think it would be good to better understand the realities of leaving, and to continue to gather advice and insights from folks who know what it’s like to have a post academic career.
 
@@ -53,6 +53,8 @@ Folks who are collaborators on this project will have the first chance to do the
 ### **On Openness**
 
 All of our data and our research products will be released under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) attribution license. The materials will remain available to anyone who wishes to do more with it. This will allow for research to continue in the future and to make it possible to extend from this work. It will also contribute to the need for open qualitative datasets.
+
+**Original Report**: Duckles, Beth M. (2018). _What I Wish I Had Known: Post Academic Women and Their Advice for Leaving the Academy. Zenodo_. [https://doi.org/10.5281/ZENODO.7097360](https://doi.org/10.5281/ZENODO.7097360 "https://doi.org/10.5281/ZENODO.7097360")
 
 **Photo** by [愚木混株 cdd20](https://unsplash.com/@cdd20?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
