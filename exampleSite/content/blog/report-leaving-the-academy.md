@@ -9,7 +9,7 @@ title = "Navigating Life Beyond Academia: Insights and Advice from the Leaving t
 
 +++
 
-[**Get the report here**](https://zenodo.org/record/8014703)
+[**Get the report here**](https://doi.org/10.5281/zenodo.8015576)
 
 We're thrilled to announce the completion of our Leaving the Academy research project, where we set out to gather invaluable insights from individuals who have transitioned out of academia. The responses we received from 209 folks with a Ph.D. who took part in our survey have exceeded our expectations. In this blog post, we invite you to explore the key findings and advice shared by these remarkable individuals.
 
@@ -29,4 +29,4 @@ Finally, we extend our heartfelt gratitude to everyone who participated in the L
 **Design** by Borhane Blili-Hamelin
 
 
-**Get the report here**: [https://zenodo.org/record/8014703](https://zenodo.org/record/8014703 "https://zenodo.org/record/8014703")
+**Get the report here**: [https://doi.org/10.5281/zenodo.8015576](https://doi.org/10.5281/zenodo.8015576 "https://doi.org/10.5281/zenodo.8015576")
