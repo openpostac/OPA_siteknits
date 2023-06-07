@@ -27,7 +27,7 @@ URL = "problemworkshop"
 name = "Toolkit"
 weight = 2
 [[menu.desktop]]
-URL = "lta"
+URL = "https://openpostac.org/blog/report-leaving-the-academy/"
 name = "Leaving the Academy"
 weight = 2
 [[menu.main]]
@@ -47,7 +47,7 @@ URL = "problemworkshop"
 name = "Toolkit"
 weight = 3
 [[menu.main]]
-URL = "lta"
+URL = "https://openpostac.org/blog/report-leaving-the-academy/"
 name = "Leaving the Academy"
 weight = 3
 [[menu.main]]
