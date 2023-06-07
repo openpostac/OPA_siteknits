@@ -26,6 +26,10 @@ weight = 1
 URL = "problemworkshop"
 name = "Toolkit"
 weight = 2
+[[menu.desktop]]
+URL = "lta"
+name = "Leaving the Academy"
+weight = 2
 [[menu.main]]
 URL = "http://book.openpostac.org/"
 name = "Resources"
@@ -41,6 +45,10 @@ weight = 4
 [[menu.main]]
 URL = "problemworkshop"
 name = "Toolkit"
+weight = 3
+[[menu.main]]
+URL = "lta"
+name = "Leaving the Academy"
 weight = 3
 [[menu.main]]
 URL = "about"
